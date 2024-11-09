@@ -1,5 +1,11 @@
+# Kocurowy96's Profile
+
 ## Hi there 👋
 
+I am a new programer, i studing a c++ code.
+I can write programs a little bit in batch.
+
+## Have a nice day :)
 <!--
 **Kocurowy96/kocurowy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
