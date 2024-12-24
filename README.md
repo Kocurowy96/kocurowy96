@@ -2,8 +2,13 @@
 
 ## Hi there 👋
 
-I am a new programer, i studing a c++ code.
-I can write programs a little bit in batch.
+- I am a new programer
+- 🌱 I’m currently learning C++
+I can write programs a little bit in batch, c# (eg. KocurAdvRun) and little little in shell (eg. KocurDOS)
+
+Visit please KocurAdvRun and KocurDOS please.
+
+- 🔭 I’m currently working on KocurDOS, KocurFileCreator (Soon on GitHib)
 
 ## Have a nice day :)
 <!--
