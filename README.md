@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1>My current projects (of which I am proud):</h1>
-- KocurConsole - A console application that doesn't rely on cmd or PowerShell and has many more features than cmd (it competes with Windows Terminal). It has a lot of functionality, is vibe-coded (but trust me, it works very well; using Antigravity with Claude Opus 4.6), and bypasses cmd's system locks because it uses its own commands.
+● KocurConsole - A console application that doesn't rely on cmd or PowerShell and has many more features than cmd (it competes with Windows Terminal). It has a lot of functionality, is vibe-coded (but trust me, it works very well; using Antigravity with Claude Opus 4.6), and bypasses cmd's system locks because it uses its own commands.
 
 ###
 
