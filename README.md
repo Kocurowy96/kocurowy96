@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! I'm a Kocurowy96, from Poland</h2>
 
+# Soon new README.MD...
+
+<!--
 ###
 
 <div align="center">
@@ -108,3 +111,4 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kocurowy96/kocurowy96/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kocurowy96/kocurowy96/output/github-snake.svg" />
 </picture>
+-->
