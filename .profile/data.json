@@ -1,0 +1,269 @@
+{
+ "key": "84e9cf14",
+ "stars": 6,
+ "contributions": 197,
+ "repos": 12,
+ "followers": 7,
+ "languages": [
+  [
+   "C",
+   2161379
+  ],
+  [
+   "C++",
+   578793
+  ],
+  [
+   "C#",
+   225684
+  ],
+  [
+   "Rust",
+   149646
+  ],
+  [
+   "Python",
+   89682
+  ],
+  [
+   "Assembly",
+   70045
+  ],
+  [
+   "Linker Script",
+   17381
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 14,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 7
+ },
+ "pins": [
+  {
+   "name": "OchraOS",
+   "url": "https://github.com/Kocurowy96/OchraOS",
+   "text": "OchraOS – a hobby operating system written from scratch in Rust. Linux-compatible kernel ABI: runs Linux binaries natively, with Wine and Steam as long-term goals. x86_64, UEFI.",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": [
+    "hobby-os",
+    "kernel",
+    "linux-compatibility",
+    "operating-system",
+    "osdev",
+    "rust",
+    "wayland",
+    "x86-64"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "OxideOS",
+   "url": "https://github.com/Kocurowy96/OxideOS",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "OchraOS",
+   "url": "https://github.com/Kocurowy96/OchraOS",
+   "text": "OchraOS – a hobby operating system written from scratch in Rust. Linux-compatible kernel ABI: runs Linux binaries natively, with Wine and Steam as long-term goals. x86_64, UEFI.",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": [
+    "hobby-os",
+    "kernel",
+    "linux-compatibility",
+    "operating-system",
+    "osdev",
+    "rust",
+    "wayland",
+    "x86-64"
+   ]
+  },
+  {
+   "name": "paintbox",
+   "url": "https://github.com/Kocurowy96/paintbox",
+   "text": "A painting canvas in Rust driven by a text protocol over TCP, with a live preview window",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "LiquidWM",
+   "url": "https://github.com/Kocurowy96/LiquidWM",
+   "text": "A Good Vibecoded WM for linux (WIP)",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "KocurConsole",
+   "url": "https://github.com/Kocurowy96/KocurConsole",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "kocurowy96",
+   "url": "https://github.com/Kocurowy96/kocurowy96",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Microsoft-Activation-Scripts",
+   "url": "https://github.com/Kocurowy96/Microsoft-Activation-Scripts",
+   "text": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+   "fork": true,
+   "stars": 0,
+   "language": "Batchfile",
+   "topics": []
+  },
+  {
+   "name": "MinedowsOS",
+   "url": "https://github.com/Kocurowy96/MinedowsOS",
+   "text": "[FORK OF MinedowsOS] This is an experimental fork from LiberNT - An open-source fork based of ReactOS, targeting Windows 11 compatibillity",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "chip8-emulator",
+   "url": "https://github.com/Kocurowy96/chip8-emulator",
+   "text": "A CHIP-8 interpreter in Rust with a live window, plus a small assembler -- bring your own ROMs",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "application",
+   "url": "https://github.com/Kocurowy96/application",
+   "text": "A official application Klovy Chat - Android, iOS, macOS, Windows",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "RPCN-Remaster-For-SelfUse",
+   "url": "https://github.com/Kocurowy96/RPCN-Remaster-For-SelfUse",
+   "text": "Matchmaking server for RPCS3",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "minecraft1.12",
+   "url": "https://github.com/Kocurowy96/minecraft1.12",
+   "text": "Source code of minecraft 1.12",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ]
+}
