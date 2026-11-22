@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "login": "Kocurowy96",
+  "seed": "#B5BFF0",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "Building OchraOS, an operating system written from scratch in Rust.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Poland"
+      },
+      {
+        "icon": "brand:rust",
+        "label": "Rust · C#"
+      },
+      {
+        "icon": "brand:archlinux",
+        "label": "Arch Linux"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Learning Rust by writing an OS kernel"
+      },
+      {
+        "icon": "code",
+        "label": "Homelab tinkerer: Incus, Home Assistant"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      },
+      {
+        "icon": "favorite",
+        "label": "Electronics: Arduino, ESP32, LoRa"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "C#"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:qemu",
+            "label": "QEMU"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:furaffinity",
+            "label": "Affinity"
+          },
+          {
+            "icon": "brand:davinciresolve",
+            "label": "DaVinci Resolve"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "Claude Code"
+          },
+          {
+            "icon": "brand:claude",
+            "label": "Claude"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "OchraOS",
+      "paintbox"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1013038112038981682"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@Kocurowy96"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
