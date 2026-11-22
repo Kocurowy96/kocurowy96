@@ -1,25 +1,25 @@
 {
- "key": "84e9cf14",
- "stars": 6,
- "contributions": 197,
- "repos": 12,
+ "key": "3fd70e3a",
+ "stars": 0,
+ "contributions": 204,
+ "repos": 8,
  "followers": 7,
  "languages": [
   [
    "C",
-   2161379
+   2171829
   ],
   [
    "C++",
    578793
   ],
   [
-   "C#",
-   225684
+   "Rust",
+   429419
   ],
   [
-   "Rust",
-   149646
+   "C#",
+   225684
   ],
   [
    "Python",
@@ -31,7 +31,7 @@
   ],
   [
    "Linker Script",
-   17381
+   18860
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 14,
+    "c": 23,
     "day": 22,
     "today": true
    },
@@ -133,7 +133,7 @@
    "url": "https://github.com/Kocurowy96/OchraOS",
    "text": "OchraOS – a hobby operating system written from scratch in Rust. Linux-compatible kernel ABI: runs Linux binaries natively, with Wine and Steam as long-term goals. x86_64, UEFI.",
    "fork": false,
-   "stars": 1,
+   "stars": 0,
    "language": "Rust",
    "topics": [
     "hobby-os",
@@ -149,12 +149,12 @@
  ],
  "all": [
   {
-   "name": "OxideOS",
-   "url": "https://github.com/Kocurowy96/OxideOS",
+   "name": "kocurowy96",
+   "url": "https://github.com/Kocurowy96/kocurowy96",
    "text": "",
    "fork": false,
-   "stars": 2,
-   "language": "C",
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {
@@ -162,7 +162,7 @@
    "url": "https://github.com/Kocurowy96/OchraOS",
    "text": "OchraOS – a hobby operating system written from scratch in Rust. Linux-compatible kernel ABI: runs Linux binaries natively, with Wine and Steam as long-term goals. x86_64, UEFI.",
    "fork": false,
-   "stars": 1,
+   "stars": 0,
    "language": "Rust",
    "topics": [
     "hobby-os",
@@ -174,42 +174,6 @@
     "wayland",
     "x86-64"
    ]
-  },
-  {
-   "name": "paintbox",
-   "url": "https://github.com/Kocurowy96/paintbox",
-   "text": "A painting canvas in Rust driven by a text protocol over TCP, with a live preview window",
-   "fork": false,
-   "stars": 1,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "LiquidWM",
-   "url": "https://github.com/Kocurowy96/LiquidWM",
-   "text": "A Good Vibecoded WM for linux (WIP)",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "KocurConsole",
-   "url": "https://github.com/Kocurowy96/KocurConsole",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "C#",
-   "topics": []
-  },
-  {
-   "name": "kocurowy96",
-   "url": "https://github.com/Kocurowy96/kocurowy96",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
   },
   {
    "name": "Microsoft-Activation-Scripts",
@@ -239,30 +203,30 @@
    "topics": []
   },
   {
-   "name": "application",
-   "url": "https://github.com/Kocurowy96/application",
-   "text": "A official application Klovy Chat - Android, iOS, macOS, Windows",
-   "fork": true,
+   "name": "paintbox",
+   "url": "https://github.com/Kocurowy96/paintbox",
+   "text": "A painting canvas in Rust driven by a text protocol over TCP, with a live preview window",
+   "fork": false,
    "stars": 0,
-   "language": "Rust",
+   "language": "Python",
    "topics": []
   },
   {
-   "name": "RPCN-Remaster-For-SelfUse",
-   "url": "https://github.com/Kocurowy96/RPCN-Remaster-For-SelfUse",
-   "text": "Matchmaking server for RPCS3",
-   "fork": true,
+   "name": "OxideOS",
+   "url": "https://github.com/Kocurowy96/OxideOS",
+   "text": "",
+   "fork": false,
    "stars": 0,
-   "language": "Rust",
+   "language": "C",
    "topics": []
   },
   {
-   "name": "minecraft1.12",
-   "url": "https://github.com/Kocurowy96/minecraft1.12",
-   "text": "Source code of minecraft 1.12",
-   "fork": true,
+   "name": "KocurConsole",
+   "url": "https://github.com/Kocurowy96/KocurConsole",
+   "text": "",
+   "fork": false,
    "stars": 0,
-   "language": "Java",
+   "language": "C#",
    "topics": []
   }
  ]
