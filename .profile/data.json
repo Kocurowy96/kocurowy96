@@ -1,9 +1,9 @@
 {
- "key": "f18ed5e8",
- "stars": 0,
+ "key": "d02c066a",
+ "stars": 1,
  "contributions": 208,
  "repos": 8,
- "followers": 7,
+ "followers": 6,
  "languages": [
   [
    "C",
@@ -141,7 +141,7 @@
    "url": "https://github.com/Kocurowy96/OchraOS",
    "text": "OchraOS – a hobby operating system written from scratch in Rust. Linux-compatible kernel ABI: runs Linux binaries natively, with Wine and Steam as long-term goals. x86_64, UEFI.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": [
     "hobby-os",
@@ -157,20 +157,11 @@
  ],
  "all": [
   {
-   "name": "kocurowy96",
-   "url": "https://github.com/Kocurowy96/kocurowy96",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "OchraOS",
    "url": "https://github.com/Kocurowy96/OchraOS",
    "text": "OchraOS – a hobby operating system written from scratch in Rust. Linux-compatible kernel ABI: runs Linux binaries natively, with Wine and Steam as long-term goals. x86_64, UEFI.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": [
     "hobby-os",
@@ -182,6 +173,15 @@
     "wayland",
     "x86-64"
    ]
+  },
+  {
+   "name": "kocurowy96",
+   "url": "https://github.com/Kocurowy96/kocurowy96",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
   },
   {
    "name": "Microsoft-Activation-Scripts",
