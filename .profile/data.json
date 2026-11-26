@@ -1,9 +1,9 @@
 {
- "key": "45ef11a8",
+ "key": "90100844",
  "stars": 1,
  "contributions": 209,
  "repos": 8,
- "followers": 6,
+ "followers": 7,
  "languages": [
   [
    "C",
@@ -128,15 +128,19 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 4,
+  "current": 0,
   "longest": 7
  },
  "pins": [
