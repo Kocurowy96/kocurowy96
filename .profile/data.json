@@ -1,9 +1,9 @@
 {
- "key": "90100844",
+ "key": "6d728f26",
  "stars": 1,
  "contributions": 209,
  "repos": 8,
- "followers": 7,
+ "followers": 6,
  "languages": [
   [
    "C",
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
